@@ -4,12 +4,17 @@ body {
     display: flex;
     flex-direction: column;
     background-color: azure;
-}.img {
+}
+
+.container
+
+.img {
     margin-bottom: 10px;
     display: inline;
     width: 100%;
     object-fit: cover;
 }
+
 p {
     text-align: center;
 }
